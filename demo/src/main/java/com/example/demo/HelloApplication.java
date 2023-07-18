@@ -20,5 +20,9 @@ if (o<i){
 }else {
     System.out.println("b+a");
 }
+
+String a = "hallo";
+System.out.println(a);
+
 }
 }
