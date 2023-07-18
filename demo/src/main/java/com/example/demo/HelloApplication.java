@@ -13,6 +13,12 @@ int i = 5;
 int o = i +4;
 System.out.println("Hallo");
 System.out.println(o+i);
+System.out.println("w");
 
+if (o<i){
+    System.out.println("a");
+}else {
+    System.out.println("b+a");
+}
 }
 }
